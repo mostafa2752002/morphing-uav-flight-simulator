@@ -84,8 +84,3 @@ The UAV is modeled with:
 
 
 
-## 📜 License
-
-This project is shared for educational and academic purposes. Please credit the authors if you use any part of this work.
-
-
